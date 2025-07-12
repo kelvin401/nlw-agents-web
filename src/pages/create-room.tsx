@@ -9,8 +9,6 @@ export function CreateRoom() {
           <CreateRoomForm />
 
           <RoomList />
-
-          <a href="https://youtu.be/17CO2twuLOM?t=3701">continuar aula</a>
         </div>
       </div>
     </div>
